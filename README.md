@@ -1,5 +1,7 @@
 # nimBLE-discrete-xfer
 Simple discrete transfer over BLE nimble stack. Testing BLE 5.0 speed-latency-jitter
+YouTube Demo: https://youtu.be/ZHMZ05vz_-8
+
 
 
                                  Apache License
